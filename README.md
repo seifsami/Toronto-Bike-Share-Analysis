@@ -1,4 +1,4 @@
-# Toronto-Bike-Share-Analysis
+# Toronto Bike Share Analysis
 
 Description: This project will be analyzing data provided by and regarding Bike Share Toronto, a bicycle sharing system in the city of Toronto. 
 
